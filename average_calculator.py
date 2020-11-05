@@ -1,5 +1,5 @@
 while True:
-	'''Ask for the numbers to find the average of'''
+	'''Ask for the numbers to find the average of.'''
 	numbers = input("Enter the numbers to average.\nEnter 'q' to quit. ")
 	if numbers.lower() == 'q':
 		break
