@@ -9,7 +9,6 @@ while True:
 
 		'''convert list of strings to list of floats.'''
 		lst = [float(x) for x in numbers]
-
 		'''use input to formulate the average of the given numbers.'''
 
 		total = sum(lst)
