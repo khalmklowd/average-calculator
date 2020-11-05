@@ -1,3 +1,4 @@
+'''A while loop that takes numbers and calculates their average.'''
 while True:
 	'''Ask for the numbers to find the average of.'''
 	numbers = input("Enter the numbers to average.\nEnter 'q' to quit. ")
