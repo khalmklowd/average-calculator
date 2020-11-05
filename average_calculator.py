@@ -17,4 +17,4 @@ while True:
 		ave = total/div
 
 		'''Print the result.'''
-		print(f"The average of your numbers is: {ave}")
+		print(f"Their average is: {ave}")
