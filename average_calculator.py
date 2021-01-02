@@ -18,10 +18,10 @@ while True:
         # Use input to formulate the average of the given numbers.
         total = sum(lst)
         div = len(lst)
-        ave = total/div
+        avg = total/div
 
         # Print the result.
-        print(f"The average of your numbers is: {ave}")
+        print(f"The average of your numbers is: {avg}")
 
     except ValueError:
         print("please type only numbers.")
